@@ -1,11 +1,11 @@
+server:
+  port: 8080
+  address: 0.0.0.0
 spring:
   application:
     name: app
   mongodb:
     uri: mongodb+srv://admin:password%40123@cluster0.u3ndijo.mongodb.net/grocery
-
-server:
-  port: 8080
 razorpay:
   key: rzp_test_SkOSBZo2AvOsxb
   secret: 73tUnD0D8bqTbT15TKnIB9z0
